@@ -36,7 +36,7 @@ I needed motivation to get back to programming, or so I said, because they are j
 
 # MY PATH FROM NOW ON
 
-I think the best thing that has happened to me recently is to have no motivation beyond the one I had in the beginning: <span style="color: #FAB703;">**learning**</span>.<br> This has brought me to the moment where I am now:
+I think the best thing that has happened to me recently is to have no motivation beyond the one I had in the beginning: <span style="color: #DBC587;">**learning**</span>.<br> This has brought me to the moment where I am now:
 
 - I want to build cool stuff
 - Learn the backend side(before I only did frontent, I felt very limited)
@@ -46,7 +46,7 @@ I think the best thing that has happened to me recently is to have no motivation
 You may think that's a lot of hours and that I'll end up burnt out, but this is what I really want.I think being so focused and having such a routine will make me a better person outside of this field as well.
 
 <div style="text-align: center;">
-  <img src="/images/post1-image.png" alt="Imagen ilustrativa" style="max-width: 500px; width: 100%; height: auto;">
+  <img src="/images/macintosh-spirit.jpg" alt="Imagen ilustrativa" style="width: 100%; height: auto;">
 </div>
 
 ---
