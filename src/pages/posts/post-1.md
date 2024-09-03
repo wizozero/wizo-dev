@@ -43,7 +43,9 @@ i think the best thing that has happened to me recently is to have no motivation
 - have a routine of about 12 hours a day of work
 - make connections with people who are interesting and inspire me
 
-you may think that's a lot of hours and that i'll end up burnt out, but this is what i really want.i think being so focused and having such a routine will make me a better person outside of this field as well. **i also include an workout routine**
+you may think that's a lot of hours and that i'll end up burnt out, but this is what i really want.i think being so focused and having such a routine will make me a better person outside of this field as well.
+
+to end with this that nobody is interested in, i have established a routine of daily physical workout and a kind of ritual before starting the day: watch one episode of one piece a day until i finish it, ok i am not demented at all.
 
 <div style="text-align: center;">
   <img src="/images/macintosh-spirit.jpg" alt="Imagen ilustrativa" style="width: 100%; height: auto;">
