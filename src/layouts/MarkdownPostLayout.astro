@@ -3,6 +3,16 @@ import Layout from './Layout.astro';
 const { frontmatter } = Astro.props;
 ---
 <Layout title={frontmatter.title}>
-  <p>{frontmatter.pubDate.toString().slice(0,10)}</p>
-  <slot />
+  <article class="post-content">
+    <p>{frontmatter.pubDate.toString().slice(0,10)}</p>
+    <div class="content-wrapper">
+      <slot />
+    </div>
+  </article>
 </Layout>
+
+<style>
+  .post-content {
+    padding-bottom: 1rem;
+  }
+</style>
