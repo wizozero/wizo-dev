@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/MarkdownPostLayout.astro
-title: 'My path from now on'
-pubDate: 2024-08-30
+title: 'Why I have done this'
+pubDate: 2024-09-03
 ---
 
 Inspired by many people on "X", I have decided to document at least a little bit of my path from now on. I think it's good for the mind and for setting goals to write things down. I don't know if it will work, but it's all about taking steps.
