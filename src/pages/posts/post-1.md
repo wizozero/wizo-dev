@@ -39,11 +39,11 @@ i needed motivation to get back to programming, or so i said, because they are j
 i think the best thing that has happened to me recently is to have no motivation beyond the one i had in the beginning <span style="color: #DBC587;">(**learning**)</span>. this has brought me to the moment where i am now:
 
 - i want to build cool stuff
-- learn the backend side (before I only did frontent, I felt very limited)
+- learn the backend side (before i only did frontent, i felt very limited)
 - have a routine of about 12 hours a day of work
 - make connections with people who are interesting and inspire me
 
-you may think that's a lot of hours and that i'll end up burnt out, but this is what i really want.I think being so focused and having such a routine will make me a better person outside of this field as well.
+you may think that's a lot of hours and that i'll end up burnt out, but this is what i really want.i think being so focused and having such a routine will make me a better person outside of this field as well. **i also include an workout routine**
 
 <div style="text-align: center;">
   <img src="/images/macintosh-spirit.jpg" alt="Imagen ilustrativa" style="width: 100%; height: auto;">
